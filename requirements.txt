@@ -1,1 +1,6 @@
 ipykernel==6.30.1
+
+# for 01_CrewAI_Hands-On Code Example_Chapter 6: Planning.ipynb
+dotenv==0.9.9
+crewai==0.201.1
+langchain-openai==0.3.34

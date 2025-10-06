@@ -4,3 +4,6 @@ ipykernel==6.30.1
 dotenv==0.9.9
 crewai==0.201.1
 langchain-openai==0.3.34
+
+# for 02_OpenAI Deep Research API Example_Chapter 6: Planning.ipynb
+truststore==0.10.4
